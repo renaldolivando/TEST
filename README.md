@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @renaldolivando
+- 👋 Hi, I’m @renaldolivando from Jakarta, Indonesia
 - 🌱 I’m currently learning Data Science
 - 📫 You can reach me via email at renaldolivando.st@gmail.com
 
